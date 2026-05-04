@@ -36,7 +36,7 @@
 
 #### [miniAgoda — Hotel Booking REST API](https://github.com/AhsanShafiqShawon/miniAgoda)
 
-> A full hotel booking platform built end-to-end, inspired by Agoda. Covers JWT auth, role-based access control, hotel search, booking flows, and availability validation. Every layer designed and implemented independently to simulate production backend development.
+> A full hotel booking platform built end-to-end, inspired by Agoda. Covers JWT auth, role-based access control, hotel search, booking flows, and availability validation. Every layer is designed and implemented independently to simulate production backend development.
 
 - 🔐 JWT-based authentication & role-based access control via Spring Security
 - 🏨 10+ RESTful API endpoints covering hotel listing, room search & booking flows
