@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ahsan Shafiq 👋
 
-<!--
-**AhsanShafiqShawon/AhsanShafiqShawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer from Bangladesh, building production-quality Java systems. CS graduate from Varendra University. Currently seeking my first backend engineering role — open to on-site, hybrid, or remote opportunities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Hibernate/JPA` `Redis` `Docker` `JUnit` `Maven` `Git`
+
+---
+
+## Featured project
+
+### miniAgoda — Hotel Booking REST API
+A full hotel booking platform built end-to-end, inspired by Agoda. Covers JWT auth, role-based access control, hotel search, booking flows, and availability validation.
+
+**Stack:** Java · Spring Boot · Spring Security · PostgreSQL · Redis · Docker · JUnit
+
+🔗 [github.com/AhsanShafiqShawon/miniAgoda](https://github.com/AhsanShafiqShawon/miniAgoda)
+
+---
+
+## Currently
+
+- Building backend systems independently
+- Learning system design patterns
+- Open to junior/mid backend roles
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/sshawon](https://linkedin.com/in/sshawon)
+- Location: Bangladesh / Bangkok
