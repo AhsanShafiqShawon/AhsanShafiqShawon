@@ -49,6 +49,6 @@
 
 ### 📫 Connect with me
 
-- 💼 LinkedIn: [linkedin.com/in/sshawon](https://linkedin.com/in/sshawon)
+- 💼 LinkedIn: [linkedin.com/in/sshawon](https://linkedin.com/in/AhsanShafiqShawon)
 - 📍 Based in Bangladesh · Open to Bangkok & remote roles
 - 🟢 **Available for immediate start**
