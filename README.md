@@ -55,15 +55,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhsanShafiqShawon&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanShafiqShawon&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 - 💼 LinkedIn: [linkedin.com/in/sshawon](https://linkedin.com/in/sshawon)
